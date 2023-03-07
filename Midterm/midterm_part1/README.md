@@ -1,3 +1,3 @@
 Schematic
 
-![Schematic](RLT.png)
+![Schematic](RTL.png)
